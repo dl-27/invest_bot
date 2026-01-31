@@ -1,0 +1,12 @@
+venv/
+.venv/
+Thumbs.db
+.idea/
+.project
+.settings/
+*.log
+*.log*
+*.sqlite
+*.sqlite3
+*.db
+.pytest_cache/
