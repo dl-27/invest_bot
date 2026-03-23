@@ -169,7 +169,7 @@ SECTOR_UNIVERSE = {
 
 START_DATE = "2020-01-01"
 END_DATE = "2024-01-01"
-APP_TITLE = "Project Invest: Global Advisor"
+APP_TITLE = "Advisor Bot"
 APP_ICON = ""
 REGIONS = ["US", "Germany", "UK", "Japan", "Europe", "South Korea"]
 SECTORS = list(SECTOR_UNIVERSE.keys())
