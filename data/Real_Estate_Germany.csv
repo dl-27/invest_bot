@@ -1,0 +1,5 @@
+Ticker,Company Name,Current_Price,Market_Cap,Trailing_PE,Price_to_Book,Price_to_Sales,Revenue_Growth,Earnings_Growth,Profit_Margin,Free_Cash_Flow,Div_2025
+VNA.DE,Vonovia SE                    N,21.44,18186721280,6.637771,0.66209626,2.7202418,-0.359,,0.55686,3463800064,1.25
+LEG.DE,LEG Immobilien SE             N,55.35,4182843648,3.275148,0.48112443,2.6581366,-0.241,5.543,0.92666,842112512,2.92
+TEG.DE,TAG Immobilien AG             I,12.76,2411008512,6.047394,0.73919594,2.4064243,0.201,,0.0932,39483000,0.4
+GYC.DE,Grand City Properties S.A.    A,9.07,1597459584,3.3970037,0.39179265,2.655983,-0.001,-0.344,0.85107005,390565376,0.0
